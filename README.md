@@ -1,6 +1,6 @@
 ### magic
 
-
+- https://github.com/tom-code/gomat - simple matter client to commission matter devices and send commands to them
 - https://github.com/tom-code/acmec2 - simple acme client to get certificates from lets encrypt
 - https://github.com/tom-code/nsutil - linux network namespaces creation simpler
 - https://github.com/tom-code/k8swebhook
