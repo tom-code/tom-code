@@ -9,4 +9,4 @@
 - https://github.com/tom-code/nbds
 - https://github.com/tom-code/netifmod
 - https://github.com/tom-code/staticss - k8s cni/ipam plugin with configurable static ips for statefulsets
-- https://github.com/tom-code/rust-matc - simple matter library in rust to commission matter devices and send commands to them
+- https://github.com/tom-code/rust-matc - simple matter protocol library in rust to commission matter devices and send commands to them
